@@ -40,7 +40,7 @@ This repository is created **to learn and practice Machine Learning concepts fro
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python 🐍
+* **Language:** Python 
 * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ---
